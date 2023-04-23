@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "810604629912",
+    "firebase_url": "https://recipe-project-b6761-default-rtdb.firebaseio.com",
+    "project_id": "recipe-project-b6761",
+    "storage_bucket": "recipe-project-b6761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810604629912:android:f29a7be5c929ddf29025ed",
+        "android_client_info": {
+          "package_name": "kz.satbaev.recipeproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810604629912-pd9mdfq5hh61sop2vkfo9l3dj21ptc98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm15YlwYPR-qXK-qlF2hhOR1r5MrBdCPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810604629912-pd9mdfq5hh61sop2vkfo9l3dj21ptc98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
